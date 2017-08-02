@@ -1,0 +1,34 @@
+body {
+  background-color:blue;
+
+}
+.sugar img {
+  width: 150px;
+  height: 150px;
+}
+
+.lemon img {
+  width: 150px;
+  height: 150px;
+}
+
+.chocolate img {
+  background-color: white;
+  width: 150px;
+  height: 150px;
+}
+
+.cookies {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 50%;
+  height: 215px;
+  display: -webkit-inline-box;
+}
+
+
+p {
+  color: black;
+}
